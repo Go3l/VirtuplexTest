@@ -1,0 +1,5 @@
+- learn how to mvoe rect tansform with dotween
+
+dropdown option for camera angles
+change materials of child object of mesh renderr
+animations for doors with dotween
